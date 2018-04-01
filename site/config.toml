@@ -13,12 +13,12 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://polosanebes.netlify.com/"
-languageCode = "ru-ru"
-defaultContentLanguage = "ru-ru"
+languageCode = "ru"
+defaultContentLanguage = "ru"
 title = "POLOSANEBES"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+disqusShortname = "tranquilpeak"
+# googleAnalytics = "UA-116734704-1"
 paginate = 7
 canonifyurls = true
 
