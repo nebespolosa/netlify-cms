@@ -12,10 +12,10 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://example.org/"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+baseURL = "https://polosanebes.netlify.com/"
+languageCode = "ru-ru"
+defaultContentLanguage = "ru-ru"
+title = "POLOSANEBES"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -31,10 +31,10 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Firstname Lastname"
+  name = "Irina Mironovich"
   bio = "Super bio with markdown support **COOL**"
   job = "Your job title"
-  location = "France"
+  location = "Russia"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture
